@@ -41,6 +41,6 @@ and after that, every time you run the program, it will be considered an input f
      **5. delete**
             +will remove the contact and return to the main menu.
 
-**5. save data in file:**
-     >will save the entire contents of the file.
+5. save data in file
+     > will save the entire contents of the file.
      ***!it is important to note that after each operation the data is not saved to the file and you have to do it with this command***
