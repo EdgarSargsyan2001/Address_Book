@@ -7,9 +7,9 @@
 + At the end of the program, you will be given a file named "addressData" where the saved data will be,
 and after that, every time you run the program, it will be considered an input file.
 
-+If the data in the input file is not valid, the program will give you the opportunity to edit or remove that data
++ If the data in the input file is not valid, the program will give you the opportunity to edit or remove that data
 
-+After that, the program will be completely ready for work and a list will be given in the console with which you can:
++ After that, the program will be completely ready for work and a list will be given in the console with which you can:
 
 **0. exit**:
       >this command will terminate the program and save the data in the file. Always verify the 
