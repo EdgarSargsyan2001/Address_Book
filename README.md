@@ -1,6 +1,6 @@
 # Address_Book
 
-***compile only main.cpp ***
+***!compile only main.cpp ***
 
 *When running the program, you will receive a warning if you do not have an input file, 
   *but this will not cause the program to crash.
