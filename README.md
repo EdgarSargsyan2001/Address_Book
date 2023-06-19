@@ -12,8 +12,8 @@ and after that, every time you run the program, it will be considered an input f
 + After that, the program will be completely ready for work and a list will be given in the console with which you can:
 
 **0. exit**:
-      >this command will terminate the program and save the data in the file. Always verify the 
-      >data before using this command so that incorrect information is not saved.
+      > this command will terminate the program and save the data in the file. Always verify the 
+      > data before using this command so that incorrect information is not saved.
       
 **1: see all contact information**
       >displays all addresses by their id.
