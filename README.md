@@ -11,23 +11,23 @@ and after that, every time you run the program, it will be considered an input f
 
 + After that, the program will be completely ready for work and a list will be given in the console with which you can:
 
-0. exit:
+0. exit
       > this command will terminate the program and save the data in the file. Always verify the 
        data before using this command so that incorrect information is not saved.
       
-1. **see all contact information**
+1. see all contact information
       > displays all addresses by their id.
         
-2. **search in contact information**:
-      >you can search by both first name and last name and you can consider that field 
-      >by setting "#" after which all found contacts will be displayed.
+2. search in contact information
+      > you can search by both first name and last name and you can consider that field 
+      > by setting "#" after which all found contacts will be displayed.
        
-**3. add new contact information:**
-      >by entering the appropriate dashes, you can add a new contact: if a field is entered incorrectly, it will require re-entering.
+3. add new contact information
+      > by entering the appropriate dashes, you can add a new contact: if a field is entered incorrectly, it will require re-entering.
     
      
-**4. select contact with id:**
-      >you can select the contact by its id after which you will be given a list in which you can:
+4. select contact with id
+      > you can select the contact by its id after which you will be given a list in which you can:
      **0: go back**
             +return to the main menu
      **1: change name**
