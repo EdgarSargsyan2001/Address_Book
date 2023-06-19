@@ -15,7 +15,7 @@ and after that, every time you run the program, it will be considered an input f
       > this command will terminate the program and save the data in the file. Always verify the 
        data before using this command so that incorrect information is not saved.
       
-1 **see all contact information**:
+1. **see all contact information**:
       > displays all addresses by their id.
         
 **2. search in contact information:**
