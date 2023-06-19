@@ -2,8 +2,7 @@
 
 ***!compile only main.cpp***
 
-- When running the program, you will receive a warning if you do not have an input file, 
-  *but this will not cause the program to crash.
++ When running the program, you will receive a warning if you do not have an input file, but this will not cause the program to crash.
   
 + At the end of the program, you will be given a file named "addressData" where the saved data will be,
 and after that, every time you run the program, it will be considered an input file.
