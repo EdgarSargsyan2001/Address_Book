@@ -30,15 +30,15 @@ and after that, every time you run the program, it will be considered an input f
       > you can select the contact by its id after which you will be given a list in which you can:
       
      0. go back
-            > > return to the main menu
+            >> return to the main menu
      1. change name
-            > > If the input is not valid, it will ask for input again
+            >> If the input is not valid, it will ask for input again
      2. change surname
-            > > If the input is not valid, it will ask for input again
+            >> If the input is not valid, it will ask for input again
      3. change number
-            > > If the input is not valid, it will ask for input again
+            >> If the input is not valid, it will ask for input again
      4. change email
-            > > If the input is not valid, it will ask for input again
+            >> If the input is not valid, it will ask for input again
      5. delete
             > > will remove the contact and return to the main menu.
 
