@@ -35,7 +35,6 @@ and after that, every time you run the program, it will be considered an input f
      3. change number
      4. change email
      5. delete
-    
             > will remove the contact and return to the main menu.
 
 5. save data in file
