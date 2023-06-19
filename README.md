@@ -16,7 +16,7 @@ and after that, every time you run the program, it will be considered an input f
        data before using this command so that incorrect information is not saved.
       
 1 **see all contact information**:
-      >displays all addresses by their id.
+      > displays all addresses by their id.
         
 **2. search in contact information:**
       >you can search by both first name and last name and you can consider that field 
